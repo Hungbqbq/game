@@ -1,0 +1,17 @@
+.T1{
+    background-color: green;
+    max-width: 200px;
+    min-width: 100px;
+    max-height: 200px;
+    min-height: 100px;
+}
+.T2{
+    background-color:  pink !important;
+    max-width: 200px;
+    min-width: 100px;
+    max-height: 200px;
+    min-height: 100px;
+}
+body {
+    display: flex !important;
+}
